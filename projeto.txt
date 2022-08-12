@@ -8,11 +8,10 @@
 
 
 
-3- Marcos
+3 - Criar uma página para agendamento de banho e tosa.#8
+- Adicionar uma parte onde mostre as promoções.#7
+- Adicionar uma página especifica para cada animal.#10
 
-
-
- 
 4- Felipe 
 
 
