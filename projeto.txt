@@ -1,19 +1,23 @@
 1- Ezequiel
-
-
-
+Desenvolver uma página de contato#1 i1
+Criar uma página com informações (institucionais) sobre Pet Shop#6 i2
+Criar uma página para o cliente acompanhar pedidos de compras realizados#5 i3
 
 2- Daniel
 
 
 
 
-3- Marcos
+3 Marcos 
+- Criar uma página para agendamento de banho e tosa.#8
+- Adicionar uma parte onde mostre as promoções.#7
+- Adicionar uma página especifica para cada animal.#10
 
-
-
- 
 4- Felipe 
+
+Criação do Menu.
+Criação do blog.
+Configuraçõo do usuario. 
 
 
 
