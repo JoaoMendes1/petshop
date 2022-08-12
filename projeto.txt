@@ -30,4 +30,6 @@ Configuraçõo do usuario.
 
 
 6- João Victor
-Adicionar página de trabalhe conosco
+- Adicionar página de trabalhe conosco
+- Criação de banners promocionais na página inicial
+- Adicionar página da política de reembolso
