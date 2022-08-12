@@ -14,6 +14,10 @@
 
 4- Felipe 
 
+Criação do Menu.
+Criação do blog.
+Configuraçõo do usuario. 
+
 
 
 5-Guilherme 
