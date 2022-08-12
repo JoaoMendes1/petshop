@@ -8,7 +8,8 @@ Criar uma página para o cliente acompanhar pedidos de compras realizados#5 i3
 
 
 
-3 - Criar uma página para agendamento de banho e tosa.#8
+3 Marcos 
+- Criar uma página para agendamento de banho e tosa.#8
 - Adicionar uma parte onde mostre as promoções.#7
 - Adicionar uma página especifica para cada animal.#10
 
